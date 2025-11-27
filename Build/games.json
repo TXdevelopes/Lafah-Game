@@ -1,0 +1,14 @@
+{
+"companyName": "TXStudio",
+"productName": "Lafah Yasar",
+"dataUrl": "games.data.unityweb",
+"asmCodeUrl": "games.asm.code.unityweb",
+"asmMemoryUrl": "games.asm.memory.unityweb",
+"asmFrameworkUrl": "games.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "games.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
