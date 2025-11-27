@@ -1,0 +1,14 @@
+{
+"companyName": "TXStudio",
+"productName": "Lafah Yasar",
+"dataUrl": "LafahGame.data.unityweb",
+"asmCodeUrl": "LafahGame.asm.code.unityweb",
+"asmMemoryUrl": "LafahGame.asm.memory.unityweb",
+"asmFrameworkUrl": "LafahGame.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "LafahGame.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
